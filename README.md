@@ -1,8 +1,3 @@
-### Yo whatsup
-
-<!--
-**superalex-dev/superalex-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on Delta Bot
 - 🌱 I’m currently learning Vue.js
 - 👯 I’m looking to collaborate on nothing atm
