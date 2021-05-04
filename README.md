@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on Delta Bot
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on nothing atm
 - 🤔 I’m looking for help with SQL
 - 💬 Ask me about everythink you want
