@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on Delta Bot
-- 🌱 I’m currently learning SQL
+- 🔭 I’m currently working on Delta Bot and Arduino Project
+- 🌱 I’m currently learning SQL and FrontEnd
 - 👯 I’m looking to collaborate on nothing atm
 - 🤔 I’m looking for help with SQL
 - 💬 Ask me about how to make quality discord bot with node.js
