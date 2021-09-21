@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Delta Bot V2
+- 🔭 I’m currently working on Delta Bot V3
 - 🌱 I’m currently learning SQL and web development with .Net Core
 - 👯 I’m looking to collaborate on nothing atm
 - 🤔 I’m looking for help with SQL
