@@ -1,7 +1,7 @@
-- 🔭 I’m currently working on Delta Bot V3
-- 🌱 I’m currently learning SQL and web development with .Net Core
+- 🔭 I’m currently working on personal website
+- 🌱 I’m currently learning Python and PHP
 - 👯 I’m looking to collaborate on nothing atm
-- 🤔 I’m looking for help with SQL
+- 🤔 I’m looking for help with Java
 - 💬 Ask me about how to make quality discord bot with node.js
 - 📫 How to reach me: DM me
 - 😄 Pronouns: Alex,He,Him
