@@ -1,10 +1,9 @@
-- 🔭 I’m currently working on personal website
-- 🌱 I’m currently learning Python and PHP
+- 🔭 I’m currently working on business and personal projects
 - 👯 I’m looking to collaborate on nothing atm
-- 🤔 I’m looking for help with Java
-- 💬 Ask me about how to make quality discord bot with node.js
+- 🤔 I’m looking for help with nothing
+- 💬 Ask me about SQL
 - 📫 How to reach me: DM me
-- 😄 Pronouns: Alex,He,Him
+- 😄 Pronouns: He,Him
 - ⚡ Fun fact: VS code is better than VS
 
 ## 🧰Languages and Tools:
