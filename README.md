@@ -1,4 +1,5 @@
 - 🔭 I’m currently working on business and personal projects
+- 🌱 I’m currently learning cyber security
 - 👯 I’m looking to collaborate on nothing atm
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about SQL
@@ -30,6 +31,7 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/index.html" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1448975437246255105/cc989Pmx_400x400.jpg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/58472873/154648931-a63dc520-ee80-4808-a1b2-f514615dfffd.png)" alt="firebase" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
