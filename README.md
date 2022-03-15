@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on business and personal projects
-- 🌱 I’m currently learning cyber security
+- 🌱 I’m currently learning Lua
 - 👯 I’m looking to collaborate on nothing atm
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about SQL
