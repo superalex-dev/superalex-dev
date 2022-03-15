@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about SQL
 - 📫 How to reach me: DM me
-- 😄 Pronouns: He,Him
+- 😄 Pronouns: He, Him
 - ⚡ Fun fact: Rider is better than VS
 
 ## 🧰Languages and Tools:
