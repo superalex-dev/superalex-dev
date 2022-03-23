@@ -39,5 +39,6 @@
 </p>
 
 <p style="margin-top: 1rem;" align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=superalex-dev&show_icons=true&theme=tokyonight&locale=en" alt="superalex-dev" /></p>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anzzhhela98&layout=compact&langs_count=8&hide=java,r&theme=react "/>
 
 
