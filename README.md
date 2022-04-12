@@ -1,3 +1,12 @@
+- 🔭 I’m currently working on business and personal projects
+- 🌱 I’m currently learning Lua
+- 👯 I’m looking to collaborate on nothing atm
+- 🤔 I’m looking for help with nothing
+- 💬 Ask me about SQL
+- 📫 How to reach me: DM me
+- 😄 Pronouns: He, Him
+- ⚡ Fun fact: Rider is better than VS
+
 ## 🧰Languages and Tools:
 <p align="center">
 <a href="https://developer.android.com/studio/" target="_blank"> <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" width="40" height="40"/> </a>
