@@ -33,7 +33,7 @@
 <a href="https://www.oracle.com/index.html" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1448975437246255105/cc989Pmx_400x400.jpg" alt="mssql" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/index.html" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/58472873/162891846-d1e6e67f-6134-4439-887a-9fb94118afe4.png)" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://user-images.githubusercontent.com/58472873/162891846-d1e6e67f-6134-4439-887a-9fb94118afe4.png" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="40" height="40"/> </a>
 <a href="https://www.kali.org/" target="_blank"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xIh62QvK--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tps8yqrc42qayb4gmfyd.png" width="40" height="40"/> </a>
