@@ -5,7 +5,6 @@
 - 💬 Ask me about SQL
 - 📫 How to reach me: DM me
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: Rider is better than VS
 
 ## 🧰Languages and Tools:
 <p align="center">
