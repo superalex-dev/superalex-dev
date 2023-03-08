@@ -48,7 +48,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superalex-dev&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superalex-dev&layout=compact)](https://github.com/ivan-iliev)
-<hr>
+<hr/>
 ![](https://komarev.com/ghpvc/?username=your-github-superalex-dev&color=green)
 
 </p>
