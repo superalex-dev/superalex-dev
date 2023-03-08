@@ -45,6 +45,12 @@
   </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/alexander-boev-66055a263/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
 </a>&nbsp;&nbsp;
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superalex-dev&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superalex-dev&layout=compact)](https://github.com/ivan-iliev)
+
+![](https://komarev.com/ghpvc/?username=your-github-superalex-dev&color=green)
+
 </p>
 
 <br>
