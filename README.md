@@ -52,9 +52,9 @@
  <br>
  <br>
 
-<div style="text-align: center;">
+<center>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superalex-dev&layout=compact&theme=radical)](https://github.com/superalex-dev)
-</div>
+</center>
  
 <!-- ![](https://komarev.com/ghpvc/?username=your-github-superalex-dev&color=green) -->
 
