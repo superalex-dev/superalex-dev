@@ -54,7 +54,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superalex-dev&layout=compact&theme=radical)](https://github.com/superalex-dev)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=superalex-dev&repo=HealthEdge)](https://github.com/superalex-dev/HealthEdge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=superalex-dev&theme=radical&repo=HealthEdge)](https://github.com/superalex-dev/HealthEdge)
 
  
 <!-- ![](https://komarev.com/ghpvc/?username=your-github-superalex-dev&color=green) -->
