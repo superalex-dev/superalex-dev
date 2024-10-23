@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on business and personal projects
-- 🌱 I’m currently learning Lua
+- 🌱 I’m currently learning Java
 - 💬 Ask me about SQL
 - 📫 How to reach me: DM on Linkedin
 - 😄 Pronouns: He, Him
