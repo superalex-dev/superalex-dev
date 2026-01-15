@@ -40,6 +40,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="40" height="40"/> </a>
 <a href="https://www.kali.org/" target="_blank"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xIh62QvK--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tps8yqrc42qayb4gmfyd.png" width="40" height="40"/>
 <a href="supabase.com/ target="_blank"> <img src="https://miro.medium.com/1*z5I4J44MzcC478_RVg8VdA.png" width="40" height="40/> </a>
+</a>
  <br>
  <br>
  <br>
